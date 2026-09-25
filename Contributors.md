@@ -239,6 +239,7 @@ GSL32
 - qlf
 - MAGNUS
 - Sanjay
+- Archit
 - Doug
 - Zoulkorneni
 - [Indhrani](https://github.com/Indhrani116)
