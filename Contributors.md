@@ -621,6 +621,7 @@ vijyot silare
 - Ionut Sabie
 - Kezia 
 - Ekta
+- Archit
 - Daniel
 - [HammyExplains] (https://github.com/hammyexplains)
 siddhu
